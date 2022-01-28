@@ -44,8 +44,6 @@ _Que software necesitas:
 
 - Instalar jupyter notebook, para facilitar las pruebas del código y abrir el archivo oficial_v3.ipynb (está todo el código junto)
 
-- Instalar Docker, para generar una imagen del código. Yo utilicé Docker Desktop para Windows 10. Se puede descargar en https://docs.docker.com/desktop/windows/install/
-
 ## Ejecutando el código ⚙️
 
 Desde el terminal, ubicado en la raiz del proyecto, digitar:
